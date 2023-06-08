@@ -5,8 +5,8 @@ import Navbar from './components/navbar'
 const inter = Nunito({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'UMEB',
-  description: 'New UMEB Website',
+  title: 'Alec Palo',
+  description: 'Personal Website',
 }
 
 export default function RootLayout({
@@ -16,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body>
         <Navbar />
         {children}
         </body>
