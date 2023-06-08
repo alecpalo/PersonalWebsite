@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Hello!
+This is a project that I am taking on to better learn tsx, next.js and tailwindcss. This will be for me to showcase what I am working on right now and things that I am interested in. Additionally, there will be a blog component so that I can go more in depth into certain topics.
 
 ## Getting Started
 
