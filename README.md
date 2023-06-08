@@ -1,6 +1,8 @@
 ## Hello!
 This is a project that I am taking on to better learn tsx, next.js and tailwindcss. This will be for me to showcase what I am working on right now and things that I am interested in. Additionally, there will be a blog component so that I can go more in depth into certain topics.
 
+I am not an expert in front end development so I am sure there will be better ways of doing many things in this website. I am more than willing to recieve feedback and learn!
+
 ## Getting Started
 
 First, run the development server:
